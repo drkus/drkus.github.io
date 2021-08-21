@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/drkus.dothome.co.kr/pp/static/css/main.456d0c13.chunk.css",
+    "main.js": "/drkus.dothome.co.kr/pp/static/js/main.41f8f104.chunk.js",
+    "main.js.map": "/drkus.dothome.co.kr/pp/static/js/main.41f8f104.chunk.js.map",
+    "runtime-main.js": "/drkus.dothome.co.kr/pp/static/js/runtime-main.755da85a.js",
+    "runtime-main.js.map": "/drkus.dothome.co.kr/pp/static/js/runtime-main.755da85a.js.map",
+    "static/css/2.818011ed.chunk.css": "/drkus.dothome.co.kr/pp/static/css/2.818011ed.chunk.css",
+    "static/js/2.21b6d703.chunk.js": "/drkus.dothome.co.kr/pp/static/js/2.21b6d703.chunk.js",
+    "static/js/2.21b6d703.chunk.js.map": "/drkus.dothome.co.kr/pp/static/js/2.21b6d703.chunk.js.map",
+    "static/js/3.2076adf9.chunk.js": "/drkus.dothome.co.kr/pp/static/js/3.2076adf9.chunk.js",
+    "static/js/3.2076adf9.chunk.js.map": "/drkus.dothome.co.kr/pp/static/js/3.2076adf9.chunk.js.map",
+    "index.html": "/drkus.dothome.co.kr/pp/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/drkus.dothome.co.kr/pp/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.456d0c13.chunk.css.map": "/drkus.dothome.co.kr/pp/static/css/main.456d0c13.chunk.css.map",
+    "static/js/2.21b6d703.chunk.js.LICENSE.txt": "/drkus.dothome.co.kr/pp/static/js/2.21b6d703.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/drkus.dothome.co.kr/pp/static/media/aumu.2602e286.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.755da85a.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.21b6d703.chunk.js",
+    "static/css/main.456d0c13.chunk.css",
+    "static/js/main.41f8f104.chunk.js"
+  ]
+}
